@@ -1,0 +1,3 @@
+([('app',
+   '/Users/macbookpro/Documents/repositories/avito-parser/dist/app',
+   'EXECUTABLE')],)
